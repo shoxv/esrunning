@@ -1,0 +1,7 @@
+var config = {
+    apiKey: "AIzaSyBxF-KyTDMN6I6lFDcWnaVAzSQp_bWSjws",
+    authDomain: "runapp-9aba4.firebaseapp.com",
+    databaseURL: "https://runapp-9aba4.firebaseio.com",
+    storageBucket: "runapp-9aba4.appspot.com",
+    messagingSenderId: "81841763275"
+  };
